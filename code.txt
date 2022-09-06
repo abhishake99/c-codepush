@@ -1,7 +1,6 @@
 
 ##1 https://leetcode.com/contest/weekly-contest-308/problems/longest-subsequence-with-limited-sum/
-
-##1vector<int> answerQueries(vector<int>& nums, vector<int>& queries) {
+##1E vector<int> answerQueries(vector<int>& nums, vector<int>& queries) {
         vector<int>v;
         for(int i=0;i<queries.size();i++){
            for(int j=0;j<nums.size();j++){

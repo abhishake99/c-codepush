@@ -13,7 +13,7 @@ This scraper  has been built to scrape livemint with categories website using Py
 
 Categories scraped in project are:
 
-![Untitled](Project%20Livemint%20c157231395b3470d97cb2e7a19a5c234/Untitled.png)
+![Untitled](Untitled.png)
 
 2) Dependencies: 
 

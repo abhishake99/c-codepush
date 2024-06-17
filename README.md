@@ -2,18 +2,18 @@
 
 1) Project description : 
 
-This scraper  has been built to scrape livemint with categories website using Python module scrapy with the following headers:
-
-- **Article URL:** URL of the article
-- **Title:** Title of the article
-- **Author Name:** Name of the author who published the article
-- **Author URL:** URL of the author
-- **Article Content:** News content of the article
-- **Published Date:** Date when the article was published
-
-Categories scraped in project are:
-
-![Untitled](Untitled.png)
+  This scraper  has been built to scrape livemint with categories website using Python module scrapy with the following headers:
+  
+  - **Article URL:** URL of the article
+  - **Title:** Title of the article
+  - **Author Name:** Name of the author who published the article
+  - **Author URL:** URL of the author
+  - **Article Content:** News content of the article
+  - **Published Date:** Date when the article was published
+  
+  Categories scraped in project are:
+  
+  ![Untitled](Untitled.png)
 
 2) Dependencies: 
 
